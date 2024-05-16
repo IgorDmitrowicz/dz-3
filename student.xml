@@ -1,0 +1,19 @@
+<student>
+  <name>Jan Kowalski</name>
+  <age>20</age>
+  <gender>male</gender>
+  <student_id>S123456</student_id>
+  <major>Computer Programming</major>
+  <gpa>3.8</gpa>
+  <address>
+    <street>123 Marszalkowska</street>
+    <city>Warszawa</city>
+    <country>Poland</country>
+  </address>
+  <contact>
+    <email>jan.kowalski@example.com</email>
+    <phone>+48123456789</phone>
+  </contact>
+  <is_active>true</is_active>
+  <enrollment_date>2023-09-01</enrollment_date>
+</student>
