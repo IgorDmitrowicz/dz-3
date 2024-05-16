@@ -1,0 +1,16 @@
+student:
+  name: "Jan Kowalski"
+  age: 20
+  gender: "male"
+  student_id: "S123456"
+  major: "Computer Programming"
+  gpa: 3.8
+  address:
+    street: "Marszalkowska 20"
+    city: "Warszawa"
+    country: "Poland"
+  contact:
+    email: "jan.kowalski@example.com"
+    phone: "+48123456789"
+  is_active: true
+  enrollment_date: "2023-09-01"
